@@ -35,3 +35,7 @@ C=[2,9,2,5,7,10]
 ## Testing
 
 Provided simple generators for example data and a simple loop to visually verify whether the returned sequences are valid.
+
+## How to run it?
+
+Just use `python script.py`
